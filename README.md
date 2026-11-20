@@ -5,7 +5,7 @@ An end-to-end HR Analytics project designed to analyze workforce demographics, c
 ---
 
 ## Dashboard Preview
-![HR Analytics & Employee Attrition Dashboard](dashboard_preview.png)
+![HR Analytics & Employee Attrition Dashboard](hr_analytics_dashboard.png.png)
 
 *(Note: Ensure the image filename above matches the exact screenshot filename uploaded in your repository.)*
 
