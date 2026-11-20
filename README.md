@@ -5,8 +5,7 @@ An end-to-end HR Analytics project designed to analyze workforce demographics, c
 ---
 
 ## Dashboard Preview
-![HR Analytics & Employee Attrition Dashboard](hr_analytics_dashboard.png.png)
-
+![HR Analytics & Employee Attrition Dashboard](Hr%20analytics%20%26%20employee%20attrition%20dashboard.png)
 *(Note: Ensure the image filename above matches the exact screenshot filename uploaded in your repository.)*
 
 ---
@@ -37,7 +36,7 @@ An end-to-end HR Analytics project designed to analyze workforce demographics, c
 * `hr_analytics.pbix` — Interactive Power BI dashboard file.
 * `hr_analytics.csv` — Cleaned HR dataset used for modeling and visualization.
 * `Hr analytics.ipynb` — Python (Pandas) script/notebook for data preprocessing.
-* `hr_analytics_dashboard.png.png` — High-resolution dashboard snapshot.
+* `Hr analytics & employee attrition dashboard.png` — High-resolution dashboard snapshot.
 
 ---
 
